@@ -88,8 +88,6 @@ public class Retire
 
         System.out.printf("\nTotal Interest Earned: $ %.2f\t\n", totalInterest);
 
-        System.out.printf("Testando Final");
-
         System.out.printf("Total Nest Egg: $ %.2f\t\n", totalBalance);
     }
 
